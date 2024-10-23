@@ -39,6 +39,11 @@ DB_PORT=
 ```
 
 
+## Migrations
+- To migrate, run the following command
+    `python manage.py migrate`
+
+
 ## Create superuser
 - For creating super user, enter the following command
     `python manage.py createsuperuser`
@@ -52,3 +57,25 @@ python manage.py runserver
 should show the admin login page if it is running properly
 
 rest of endpoints are here `http://0.0.0.0:8000/api/v1/<endpoint>`
+
+
+## Load test data
+- For loading test data, there are fixtures file in `fixtures` folder, following is the command to load
+```
+python manage.py loaddata fixtures/currency.json
+python manage.py loaddata fixtures/currency_exchange_rate.json
+python manage.py loaddata fixtures/provider.json
+```
+
+
+## Load historical
+- To load historical data run the following command
+    `python fixtures/load_historical_data.py`
+- Details are present in the file
+- We are using concurrency method
+
+Note: In order to run historical file you need to use postgres as sqlite3 does not support asyn
+
+
+## Postman collection link
+`https://elements.getpostman.com/redirect?entityId=30322042-81883d5c-9797-483b-8fec-813fed83dabb&entityType=collection`
