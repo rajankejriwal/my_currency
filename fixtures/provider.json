@@ -1,0 +1,28 @@
+[
+{
+    "model": "adapters.provider",
+    "pk": 1,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "name": "CurrencyBeacon",
+        "is_active": true,
+        "priority": 1,
+        "meta_data": "{\"timeseries\": \"get_timeseries_data_currency_beacon\", \"converter\": \"get_converter_data_currency_beacon\"}"
+    }
+},
+{
+    "model": "adapters.provider",
+    "pk": 2,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "name": "Mock",
+        "is_active": true,
+        "priority": 2,
+        "meta_data": "{\"timeseries\": \"get_timeseries_data_mock\", \"converter\": \"get_converter_data_mock\"}"
+    }
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+    "model": "exchange_rate.currency",
+    "pk": 1,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "code": "EUR",
+        "name": "EURO",
+        "symbol": "EUR"
+    }
+},
+{
+    "model": "exchange_rate.currency",
+    "pk": 2,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "CHF"
+    }
+},
+{
+    "model": "exchange_rate.currency",
+    "pk": 3,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "code": "USD",
+        "name": "American Dollar",
+        "symbol": "USD"
+    }
+},
+{
+    "model": "exchange_rate.currency",
+    "pk": 4,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "code": "GBP",
+        "name": "Pound",
+        "symbol": "GBP"
+    }
+}
+]

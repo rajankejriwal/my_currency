@@ -1,0 +1,1146 @@
+[
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 1,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-01",
+        "rate_value": "0.846768"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 2,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-01",
+        "rate_value": "0.903278"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 3,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-01",
+        "rate_value": "0.752711"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 4,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-01",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 5,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-02",
+        "rate_value": "0.849993"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 6,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-02",
+        "rate_value": "0.906095"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 7,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-02",
+        "rate_value": "0.754621"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 8,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-02",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 9,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-03",
+        "rate_value": "0.851596"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 10,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-03",
+        "rate_value": "0.906716"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 11,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-03",
+        "rate_value": "0.761672"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 12,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-03",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 13,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-04",
+        "rate_value": "0.857547"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 14,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-04",
+        "rate_value": "0.910579"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 15,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-04",
+        "rate_value": "0.761942"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 16,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-04",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 17,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-05",
+        "rate_value": "0.858096"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 18,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-05",
+        "rate_value": "0.910635"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 19,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-05",
+        "rate_value": "0.762184"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 20,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-05",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 21,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-06",
+        "rate_value": "0.857859"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 22,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-06",
+        "rate_value": "0.911431"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 23,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-06",
+        "rate_value": "0.761722"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 24,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-06",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 25,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-07",
+        "rate_value": "0.853684"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 26,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-07",
+        "rate_value": "0.910387"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 27,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-07",
+        "rate_value": "0.763777"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 28,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-07",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 29,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-08",
+        "rate_value": "0.857872"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 30,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-08",
+        "rate_value": "0.911732"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 31,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-08",
+        "rate_value": "0.764224"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 32,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-08",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 33,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-09",
+        "rate_value": "0.860533"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 34,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-09",
+        "rate_value": "0.913838"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 35,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-09",
+        "rate_value": "0.764832"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 36,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-09",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 37,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-10",
+        "rate_value": "0.856873"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 38,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-10",
+        "rate_value": "0.914067"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 39,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-10",
+        "rate_value": "0.765973"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 40,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-10",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 41,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-11",
+        "rate_value": "0.857318"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 42,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-11",
+        "rate_value": "0.913245"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 43,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-11",
+        "rate_value": "0.765312"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 44,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-11",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 45,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-12",
+        "rate_value": "0.857316"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 46,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-12",
+        "rate_value": "0.914109"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 47,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-12",
+        "rate_value": "0.765348"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 48,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-12",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 49,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-13",
+        "rate_value": "0.858338"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 50,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-13",
+        "rate_value": "0.915193"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 51,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-13",
+        "rate_value": "0.765661"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 52,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-13",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 53,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-14",
+        "rate_value": "0.863137"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 54,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-14",
+        "rate_value": "0.917608"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 55,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-14",
+        "rate_value": "0.765917"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 56,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-14",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 57,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-15",
+        "rate_value": "0.861925"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 58,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-15",
+        "rate_value": "0.918071"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 59,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-15",
+        "rate_value": "0.764929"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 60,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-15",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 61,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-16",
+        "rate_value": "0.866174"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 62,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-16",
+        "rate_value": "0.921496"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 63,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-16",
+        "rate_value": "0.770242"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 64,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-16",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 65,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-17",
+        "rate_value": "0.865773"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 66,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-17",
+        "rate_value": "0.922638"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 67,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-17",
+        "rate_value": "0.768060"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 68,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-17",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 69,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-18",
+        "rate_value": "0.864795"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 70,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-18",
+        "rate_value": "0.919552"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 71,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-18",
+        "rate_value": "0.765997"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 72,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-18",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 73,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-19",
+        "rate_value": "0.864919"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 74,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-19",
+        "rate_value": "0.920060"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 75,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-19",
+        "rate_value": "0.766303"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 76,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-19",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 77,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-20",
+        "rate_value": "0.864657"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 78,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-20",
+        "rate_value": "0.920217"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 79,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-20",
+        "rate_value": "0.766303"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 80,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-20",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 81,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-21",
+        "rate_value": "0.865181"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 82,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-21",
+        "rate_value": "0.924422"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 83,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-21",
+        "rate_value": "0.769560"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 84,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-21",
+        "rate_value": "1.000000"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 85,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 2,
+        "valuation_date": "2024-10-22",
+        "rate_value": "0.865320"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 86,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 1,
+        "valuation_date": "2024-10-22",
+        "rate_value": "0.925663"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 87,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 4,
+        "valuation_date": "2024-10-22",
+        "rate_value": "0.770390"
+    }
+},
+{
+    "model": "exchange_rate.currencyexchangerate",
+    "pk": 88,
+    "fields": {
+        "is_deleted": false,
+        "deleted_at": null,
+        "deleted_by": null,
+        "source_currency": 3,
+        "exchanged_currency": 3,
+        "valuation_date": "2024-10-22",
+        "rate_value": "1.000000"
+    }
+}
+]
