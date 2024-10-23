@@ -52,5 +52,3 @@ python manage.py runserver
 should show the admin login page if it is running properly
 
 rest of endpoints are here `http://0.0.0.0:8000/api/v1/<endpoint>`
-# my_currency
-my_currency
