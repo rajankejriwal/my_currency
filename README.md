@@ -78,4 +78,4 @@ Note: In order to run historical file you need to use postgres as sqlite3 does n
 
 
 ## Postman collection link
-`https://elements.getpostman.com/redirect?entityId=30322042-81883d5c-9797-483b-8fec-813fed83dabb&entityType=collection`
+`https://elements.getpostman.com/redirect?entityId=3260664-bbd17902-7943-49be-802b-faf72f9fd7ca&entityType=collection`
